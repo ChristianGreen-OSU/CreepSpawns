@@ -1,0 +1,10 @@
+name: CreeperSpawn
+version: 1.7
+author: Christian
+main: me.Christian.CreeperSpawn.Main
+description: Spawns Creepers on player
+
+commands:
+  creepspawn:
+    aliases: [cs]
+    description: /cs will spawn a number of creepers on you or on a targeted player
